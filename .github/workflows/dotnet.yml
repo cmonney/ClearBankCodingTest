@@ -22,4 +22,10 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: |
+        cd ./ClearBank.DeveloperTest.Tests/
+        dotnet test --no-build --verbosity normal
+    - name: Generate coverage report
+      run: |
+        cd ./ClearBank.DeveloperTest.Tests/
+        dotnet test /p:CollectCoverage=true /p:CoverletOutput=TestResults/ /p:CoverletOutputFormat=lcov
