@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj",
+        "projectName": "ClearBank.DeveloperTest.Tests",
+        "projectPath": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest.Tests/ClearBank.DeveloperTest.Tests.csproj",
+        "packagesPath": "/home/cmonney/.nuget/packages/",
+        "outputPath": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cmonney/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {
+                "projectPath": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoFixture.NUnit3": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+        "projectName": "ClearBank.DeveloperTest",
+        "projectPath": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/ClearBank.DeveloperTest.csproj",
+        "packagesPath": "/home/cmonney/.nuget/packages/",
+        "outputPath": "/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/cmonney/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

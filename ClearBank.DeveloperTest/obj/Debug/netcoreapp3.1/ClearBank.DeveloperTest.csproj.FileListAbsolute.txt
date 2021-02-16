@@ -1,0 +1,9 @@
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.deps.json
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.dll
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/bin/Debug/netcoreapp3.1/ClearBank.DeveloperTest.pdb
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.csprojAssemblyReference.cache
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.AssemblyInfoInputs.cache
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.AssemblyInfo.cs
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.dll
+/home/cmonney/development/github/ClearBank/ClearBank.DeveloperTest/obj/Debug/netcoreapp3.1/ClearBank.DeveloperTest.pdb
